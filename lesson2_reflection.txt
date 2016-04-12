@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 It prepares the directory for later version - controls. How else should git know, where to look at?
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+In the staging area are all items which I want to commit. But I can choose, which of the items inside my directory should be tracked.
+This way I keep the controle which parts of my directory will be watched by git.

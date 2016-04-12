@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It prepares the directory for later version - controls. How else should git know, where to look at?
